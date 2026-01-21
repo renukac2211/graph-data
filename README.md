@@ -7,7 +7,7 @@ Users can click a node to view details and deselect it.
 ## Tech Stack
 - Vue 3
 - Vite
-- Plain CSS
+- CSS
 
 ## Features
 - Tree hierarchy (top-down)
@@ -17,5 +17,6 @@ Users can click a node to view details and deselect it.
 
 ## Setup
 ```bash
+clone the repo
 npm install
 npm run dev
